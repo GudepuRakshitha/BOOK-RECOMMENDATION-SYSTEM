@@ -32,3 +32,9 @@ The dataset consists of 3 different tables:
 - 'BX-Users': 278,858 records
 - 'BX-Books': 271,379 records
 - 'BX-Book-Ratings' : 1,149,780 records
+
+
+##  👩‍💻 Author
+Gudepu Rakshitha Reddy
+
+📧 rakshithareddy1985@gmail.com
